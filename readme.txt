@@ -1,3 +1,5 @@
+!! This repository is deprecated, all feature maintenance will be done at https://github.com/sandrab/circulair-geld
+
 === Circulair Geld ===
 Contributors: marcodaniel
 Tags: circulair geld, payments, payment gateway, woocommerce
